@@ -1,0 +1,117 @@
+[
+  {
+    "ContainingType": "Asif_nawaz_Assessment_5_Growth_Plan.Controllers.ProdfuctController",
+    "Method": "CheckPassword",
+    "RelativePath": "ngrock/CheckPassword",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Asif_nawaz_Assessment_5_Growth_Plan.Controllers.ProdfuctController",
+    "Method": "DeleteProduct",
+    "RelativePath": "ngrock/DeleteProduct/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Asif_nawaz_Assessment_5_Growth_Plan.Controllers.ProdfuctController",
+    "Method": "GetAllProducts",
+    "RelativePath": "ngrock/GetAllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Asif_nawaz_Assessment_5_Growth_Plan.Controllers.ProdfuctController",
+    "Method": "GetProductById",
+    "RelativePath": "ngrock/GetProductById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Asif_nawaz_Assessment_5_Growth_Plan.Models.Products",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Asif_nawaz_Assessment_5_Growth_Plan.Controllers.ProdfuctController",
+    "Method": "UpdateProductById",
+    "RelativePath": "ngrock/UpdateProductById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Asif_nawaz_Assessment_5_Growth_Plan.Models.Products",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Asif_nawaz_Assessment_5_Growth_Plan.Controllers.ProdfuctController",
+    "Method": "UpdateSingleProperty",
+    "RelativePath": "ngrock/UpdateSingleProperty/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Asif_nawaz_Assessment_5_Growth_Plan.Models.Products, Asif nawaz Assessment 5 Growth Plan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

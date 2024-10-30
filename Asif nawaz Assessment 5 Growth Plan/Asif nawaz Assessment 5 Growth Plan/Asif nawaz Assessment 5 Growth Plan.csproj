@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Asif_nawaz_Assessment_5_Growth_Plan</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\ExceptionFilter.cs" />
+    <Compile Remove="Models\ExternalDependancyExceptionFilter.cs" />
+  </ItemGroup>
+
+</Project>

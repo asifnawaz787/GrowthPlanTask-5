@@ -1,0 +1,30 @@
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\bin\Debug\net8.0\appsettings.json
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\bin\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.staticwebassets.runtime.json
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\bin\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.exe
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\bin\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.deps.json
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\bin\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.runtimeconfig.json
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\bin\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.dll
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\bin\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.pdb
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.AssemblyInfoInputs.cache
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.AssemblyInfo.cs
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.csproj.CoreCompileInputs.cache
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.RazorAssemblyInfo.cache
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.RazorAssemblyInfo.cs
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\staticwebassets\msbuild.Asif nawaz Assessment 5 Growth Plan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\staticwebassets\msbuild.build.Asif nawaz Assessment 5 Growth Plan.props
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asif nawaz Assessment 5 Growth Plan.props
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asif nawaz Assessment 5 Growth Plan.props
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\scopedcss\bundle\Asif nawaz Assessment 5 Growth Plan.styles.css
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\scopedcss\projectbundle\Asif nawaz Assessment 5 Growth Plan.bundle.scp.css
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.dll
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\refint\Asif nawaz Assessment 5 Growth Plan.dll
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.pdb
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\Asif nawaz Assessment 5 Growth Plan.genruntimeconfig.cache
+C:\Users\asif.n\source\repos\Asif nawaz Assessment 5 Growth Plan\Asif nawaz Assessment 5 Growth Plan\obj\Debug\net8.0\ref\Asif nawaz Assessment 5 Growth Plan.dll

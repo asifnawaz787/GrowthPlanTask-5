@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Asif nawaz Assessment 5 Growth Plan/1.0.0": {
+        "runtime": {
+          "Asif nawaz Assessment 5 Growth Plan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asif nawaz Assessment 5 Growth Plan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

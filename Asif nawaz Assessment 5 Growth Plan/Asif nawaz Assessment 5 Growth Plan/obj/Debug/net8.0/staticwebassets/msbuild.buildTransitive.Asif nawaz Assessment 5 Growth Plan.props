@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Asif nawaz Assessment 5 Growth Plan.props" />
+</Project>

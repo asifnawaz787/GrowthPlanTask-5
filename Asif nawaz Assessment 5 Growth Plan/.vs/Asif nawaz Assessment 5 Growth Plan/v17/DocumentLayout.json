@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asif.n\\AppData\\Local\\SourceServer\\ee1fc97bfcffa40baef214fbbf6f6cde181818bd47f0165e2d256d31be1bcda3\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\models\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\models\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\models\\adminsafelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\models\\adminsafelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\controllers\\prodfuctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\controllers\\prodfuctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\models\\hashkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\models\\hashkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\models\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\models\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\models\\externaldependancyexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\models\\externaldependancyexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|c:\\users\\asif.n\\source\\repos\\asif nawaz assessment 5 growth plan\\asif nawaz assessment 5 growth plan\\views\\home\\verifyantiforgerytoken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF4ABD7B-517A-410F-AA89-808826C82264}|Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan.csproj|solutionrelative:asif nawaz assessment 5 growth plan\\views\\home\\verifyantiforgerytoken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 136,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1140380140:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:471051867:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1842516632:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 208,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceProviderServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\AppData\\Local\\SourceServer\\ee1fc97bfcffa40baef214fbbf6f6cde181818bd47f0165e2d256d31be1bcda3\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\ee1fc97bfcffa40baef214fbbf6f6cde181818bd47f0165e2d256d31be1bcda3\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\asif.n\\AppData\\Local\\SourceServer\\ee1fc97bfcffa40baef214fbbf6f6cde181818bd47f0165e2d256d31be1bcda3\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\ee1fc97bfcffa40baef214fbbf6f6cde181818bd47f0165e2d256d31be1bcda3\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:54:43.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminSafeList.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\AdminSafeList.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Models\\AdminSafeList.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\AdminSafeList.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Models\\AdminSafeList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:50:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\appsettings.json",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\appsettings.json",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\appsettings.json",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T14:41:51.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\Middleware.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Models\\Middleware.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\Middleware.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Models\\Middleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:37:55.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VerifyAntiForgeryToken.cshtml",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Views\\Home\\VerifyAntiForgeryToken.cshtml",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Views\\Home\\VerifyAntiForgeryToken.cshtml",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Views\\Home\\VerifyAntiForgeryToken.cshtml",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Views\\Home\\VerifyAntiForgeryToken.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:42:06.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdfuctController.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Controllers\\ProdfuctController.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Controllers\\ProdfuctController.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Controllers\\ProdfuctController.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Controllers\\ProdfuctController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:29:29.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExternalDependancyExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\ExternalDependancyExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Models\\ExternalDependancyExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\ExternalDependancyExceptionFilter.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Models\\ExternalDependancyExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:02:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Models\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\ExceptionFilter.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Models\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:03:27.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HashKey.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\HashKey.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Models\\HashKey.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\HashKey.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Models\\HashKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:54:18.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Program.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Program.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Program.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:51:43.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:51:07.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:49:17.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:17:30.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Asif nawaz Assessment 5 Growth Plan\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\Asif nawaz Assessment 5 Growth Plan\\Asif nawaz Assessment 5 Growth Plan\\Models\\Products.cs",
+              "RelativeToolTip": "Asif nawaz Assessment 5 Growth Plan\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:15:28.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
